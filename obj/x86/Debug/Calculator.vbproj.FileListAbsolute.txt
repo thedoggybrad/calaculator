@@ -1,0 +1,9 @@
+C:\Users\Teddy Martin\Desktop\Calculator_0\Calculator\Calculator\bin\x86\Debug\Calculator.exe
+C:\Users\Teddy Martin\Desktop\Calculator_0\Calculator\Calculator\bin\x86\Debug\Calculator.pdb
+C:\Users\Teddy Martin\Desktop\Calculator_0\Calculator\Calculator\bin\x86\Debug\Calculator.xml
+C:\Users\Teddy Martin\Desktop\Calculator_0\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+C:\Users\Teddy Martin\Desktop\Calculator_0\Calculator\Calculator\obj\x86\Debug\Calculator.Resources.resources
+C:\Users\Teddy Martin\Desktop\Calculator_0\Calculator\Calculator\obj\x86\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Users\Teddy Martin\Desktop\Calculator_0\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Teddy Martin\Desktop\Calculator_0\Calculator\Calculator\obj\x86\Debug\Calculator.xml
+C:\Users\Teddy Martin\Desktop\Calculator_0\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
